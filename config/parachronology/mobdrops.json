@@ -1,0 +1,80 @@
+{
+  "minecraft:blaze": {
+    "mobName": "minecraft:blaze",
+    "simpleMomentChance": 0,
+    "momentChance": 3,
+    "complexMomentChance": 0
+  },
+  "minecraft:pigzombie": {
+    "mobName": "minecraft:pigzombie",
+    "simpleMomentChance": 0,
+    "momentChance": 3,
+    "complexMomentChance": 0
+  },
+  "minecraft:skeleton": {
+    "mobName": "minecraft:skeleton",
+    "simpleMomentChance": 4,
+    "momentChance": 0,
+    "complexMomentChance": 0
+  },
+  "minecraft:witch": {
+    "mobName": "minecraft:witch",
+    "simpleMomentChance": 5,
+    "momentChance": 0,
+    "complexMomentChance": 0
+  },
+  "minecraft:wither_skeleton": {
+    "mobName": "minecraft:witherskeleton",
+    "simpleMomentChance": 0,
+    "momentChance": 3,
+    "complexMomentChance": 0
+  },
+  "minecraft:ender_dragon": {
+    "mobName": "minecraft:enderdragon",
+    "simpleMomentChance": 0,
+    "momentChance": 0,
+    "complexMomentChance": 100
+  },
+  "minecraft:ghast": {
+    "mobName": "minecraft:ghast",
+    "simpleMomentChance": 0,
+    "momentChance": 0,
+    "complexMomentChance": 0
+  },
+  "minecraft:enderman": {
+    "mobName": "minecraft:enderman",
+    "simpleMomentChance": 3,
+    "momentChance": 2,
+    "complexMomentChance": 0
+  },
+  "minecraft:magma_cube": {
+    "mobName": "minecraft:lavaslime",
+    "simpleMomentChance": 0,
+    "momentChance": 1,
+    "complexMomentChance": 0
+  },
+  "minecraft:zombie": {
+    "mobName": "minecraft:zombie",
+    "simpleMomentChance": 3,
+    "momentChance": 0,
+    "complexMomentChance": 0
+  },
+  "minecraft:creeper": {
+    "mobName": "minecraft:creeper",
+    "simpleMomentChance": 4,
+    "momentChance": 0,
+    "complexMomentChance": 0
+  },
+  "minecraft:wither": {
+    "mobName": "minecraft:wither",
+    "simpleMomentChance": 0,
+    "momentChance": 0,
+    "complexMomentChance": 100
+  },
+  "minecraft:slime": {
+    "mobName": "minecraft:slime",
+    "simpleMomentChance": 1,
+    "momentChance": 0,
+    "complexMomentChance": 0
+  }
+}

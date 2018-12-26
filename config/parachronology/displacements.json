@@ -1,0 +1,623 @@
+[
+  {
+    "tier": 1,
+    "displacements": [
+      [
+        {
+          "oreDictionary": "treeSapling"
+        },
+        [
+          {
+            "to": {
+              "Block": "minecraft:sapling:0"
+            },
+            "weight": 1
+          },
+          {
+            "to": {
+              "Block": "minecraft:sapling:1"
+            },
+            "weight": 1
+          },
+          {
+            "to": {
+              "Block": "minecraft:sapling:2"
+            },
+            "weight": 1
+          },
+          {
+            "to": {
+              "Block": "minecraft:sapling:3"
+            },
+            "weight": 1
+          },
+          {
+            "to": {
+              "Block": "minecraft:sapling:4"
+            },
+            "weight": 1
+          },
+          {
+            "to": {
+              "Block": "minecraft:sapling:5"
+            },
+            "weight": 1
+          },
+          {
+            "to": {
+              "Block": "minecraft:reeds:0"
+            },
+            "weight": 1
+          }
+        ]
+      ],
+      [
+        {
+          "Block": "parachronology:enricheddirt:0"
+        },
+        [
+          {
+            "to": {
+              "Block": "minecraft:obsidian:0"
+            },
+            "weight": 1
+          }
+        ]
+      ],
+      [
+        {
+          "oreDictionary": "logWood"
+        },
+        [
+          {
+            "to": {
+              "Block": "minecraft:cobblestone:0"
+            },
+            "weight": 2
+          },
+          {
+            "to": {
+              "Block": "minecraft:stone:0"
+            },
+            "weight": 1
+          },
+          {
+            "to": {
+              "Block": "minecraft:gravel:0"
+            },
+            "weight": 2
+          }
+        ]
+      ],
+      [
+        {
+          "oreDictionary": "cobblestone"
+        },
+        [
+          {
+            "to": {
+              "Block": "minecraft:coal_ore:0"
+            },
+            "weight": 2
+          },
+          {
+            "to": {
+              "Block": "minecraft:dirt:0"
+            },
+            "weight": 1
+          },
+          {
+            "to": {
+              "Block": "minecraft:iron_ore:0"
+            },
+            "weight": 2
+          }
+        ]
+      ]
+    ]
+  },
+  {
+    "tier": 2,
+    "displacements": [
+      [
+        {
+          "Block": "minecraft:gold_block:0"
+        },
+        [
+          {
+            "to": {
+              "Block": "minecraft:diamond_ore:0"
+            },
+            "weight": 1
+          }
+        ]
+      ],
+      [
+        {
+          "Block": "minecraft:quartz_block:0"
+        },
+        [
+          {
+            "to": {
+              "Block": "thaumcraft:crystal_aer:0"
+            },
+            "weight": 3
+          },
+          {
+            "to": {
+              "Block": "thaumcraft:crystal_ignis:0"
+            },
+            "weight": 3
+          },
+          {
+            "to": {
+              "Block": "thaumcraft:crystal_aqua:0"
+            },
+            "weight": 3
+          },
+          {
+            "to": {
+              "Block": "thaumcraft:crystal_terra:0"
+            },
+            "weight": 3
+          },
+          {
+            "to": {
+              "Block": "thaumcraft:crystal_ordo:0"
+            },
+            "weight": 3
+          },
+          {
+            "to": {
+              "Block": "thaumcraft:crystal_perditio:0"
+            },
+            "weight": 3
+          },
+          {
+            "to": {
+              "Block": "thaumcraft:crystal_vitium:0"
+            },
+            "weight": 1
+          }
+        ]
+      ],
+      [
+        {
+          "oreDictionary": "treeSapling"
+        },
+        [
+          {
+            "to": {
+              "Block": "thaumcraft:sapling_greatwood:0"
+            },
+            "weight": 3
+          },
+          {
+            "to": {
+              "Block": "thaumcraft:sapling_silverwood:0"
+            },
+            "weight": 3
+          }
+        ]
+      ],
+      [
+        {
+          "oreDictionary": "netherrack"
+        },
+        [
+          {
+            "to": {
+              "Block": "minecraft:sand:0"
+            },
+            "weight": 3
+          },
+          {
+            "to": {
+              "Block": "minecraft:clay:0"
+            },
+            "weight": 3
+          },
+          {
+            "to": {
+              "Block": "minecraft:sand:1"
+            },
+            "weight": 1
+          }
+        ]
+      ],
+      [
+        {
+          "oreDictionary": "sand"
+        },
+        [
+          {
+            "to": {
+              "Block": "minecraft:cactus:0"
+            },
+            "weight": 1
+          },
+          {
+            "to": {
+              "Block": "minecraft:sandstone:0"
+            },
+            "weight": 1
+          }
+        ]
+      ],
+      [
+        {
+          "Block": "minecraft:hay_block:0"
+        },
+        [
+          {
+            "to": {
+              "Block": "forestry:beehives:0"
+            },
+            "weight": 1
+          },
+          {
+            "to": {
+              "Block": "forestry:beehives:1"
+            },
+            "weight": 1
+          },
+          {
+            "to": {
+              "Block": "forestry:beehives:2"
+            },
+            "weight": 1
+          },
+          {
+            "to": {
+              "Block": "forestry:beehives:3"
+            },
+            "weight": 1
+          },
+          {
+            "to": {
+              "Block": "forestry:beehives:4"
+            },
+            "weight": 1
+          },
+          {
+            "to": {
+              "Block": "forestry:beehives:5"
+            },
+            "weight": 1
+          },
+          {
+            "to": {
+              "Block": "forestry:beehives:6"
+            },
+            "weight": 1
+          }
+        ]
+      ],
+      [
+        {
+          "oreDictionary": "cobblestone"
+        },
+        [
+          {
+            "to": {
+              "Block": "minecraft:gold_ore:0"
+            },
+            "weight": 2
+          },
+          {
+            "to": {
+              "Block": "immersiveengineering:ore:0"
+            },
+            "weight": 2
+          },
+          {
+            "to": {
+              "Block": "immersiveengineering:ore:1"
+            },
+            "weight": 2
+          },
+          {
+            "to": {
+              "Block": "immersiveengineering:ore:2"
+            },
+            "weight": 1
+          },
+          {
+            "to": {
+              "Block": "immersiveengineering:ore:3"
+            },
+            "weight": 1
+          }
+        ]
+      ],
+      [
+        {
+          "Block": "minecraft:dirt:0"
+        },
+        [
+          {
+            "to": {
+              "Block": "minecraft:melon_block:0"
+            },
+            "weight": 2
+          },
+          {
+            "to": {
+              "Block": "minecraft:mycelium:0"
+            },
+            "weight": 1
+          },
+          {
+            "to": {
+              "Block": "minecraft:pumpkin:0"
+            },
+            "weight": 2
+          },
+          {
+            "to": {
+              "Block": "minecraft:waterlily:0"
+            },
+            "weight": 1
+          },
+          {
+            "to": {
+              "Block": "minecraft:grass:0"
+            },
+            "weight": 2
+          }
+        ]
+      ],
+      [
+        {
+          "Block": "forestry:bee_house:0"
+        },
+        [
+          {
+            "to": {
+              "Block": "extrabees:hive:0"
+            },
+            "weight": 1
+          },
+          {
+            "to": {
+              "Block": "extrabees:hive:1"
+            },
+            "weight": 1
+          },
+          {
+            "to": {
+              "Block": "extrabees:hive:2"
+            },
+            "weight": 1
+          },
+          {
+            "to": {
+              "Block": "extrabees:hive:3"
+            },
+            "weight": 1
+          }
+        ]
+      ],
+      [
+        {
+          "Block": "thaumcraft:stone_arcane:0"
+        },
+        [
+          {
+            "to": {
+              "Block": "thaumcraft:ore_amber:0"
+            },
+            "weight": 1
+          },
+          {
+            "to": {
+              "Block": "thaumcraft:ore_quartz:0"
+            },
+            "weight": 1
+          },
+          {
+            "to": {
+              "Block": "thaumcraft:ore_cinnabar:0"
+            },
+            "weight": 1
+          }
+        ]
+      ],
+      [
+        {
+          "oreDictionary": "stone"
+        },
+        [
+          {
+            "to": {
+              "Block": "minecraft:lapis_ore:0"
+            },
+            "weight": 3
+          },
+          {
+            "to": {
+              "Block": "minecraft:emerald_ore:0"
+            },
+            "weight": 1
+          },
+          {
+            "to": {
+              "Block": "minecraft:redstone_ore:0"
+            },
+            "weight": 3
+          },
+          {
+            "to": {
+              "Block": "immersiveengineering:ore:4"
+            },
+            "weight": 1
+          },
+          {
+            "to": {
+              "Block": "actuallyadditions:block_misc:3"
+            },
+            "weight": 2
+          },
+          {
+            "to": {
+              "Block": "forestry:resources:0"
+            },
+            "weight": 1
+          }
+        ]
+      ]
+    ]
+  },
+  {
+    "tier": 3,
+    "displacements": [
+      [
+        {
+          "Block": "minecraft:diamond_block:0"
+        },
+        [
+          {
+            "to": {
+              "Block": "minecraft:mob_spawner:0",
+              "NBT": {
+                "MaxNearbyEntities": 6,
+                "RequiredPlayerRange": 16,
+                "SpawnCount": 4,
+                "SpawnData": {
+                  "id": "minecraft:skeleton"
+                },
+                "MaxSpawnDelay": 800,
+                "id": "minecraft:mob_spawner",
+                "SpawnRange": 4,
+                "Delay": 0,
+                "MinSpawnDelay": 200,
+                "SpawnPotentials": [
+                  {
+                    "Entity": {
+                      "id": "minecraft:skeleton"
+                    },
+                    "Weight": 1
+                  }
+                ]
+              }
+            },
+            "weight": 3
+          },
+          {
+            "to": {
+              "Block": "minecraft:mob_spawner:0",
+              "NBT": {
+                "MaxNearbyEntities": 6,
+                "RequiredPlayerRange": 16,
+                "SpawnCount": 4,
+                "SpawnData": {
+                  "id": "minecraft:zombie"
+                },
+                "MaxSpawnDelay": 800,
+                "id": "minecraft:mob_spawner",
+                "SpawnRange": 4,
+                "Delay": 0,
+                "MinSpawnDelay": 200,
+                "SpawnPotentials": [
+                  {
+                    "Entity": {
+                      "id": "minecraft:zombie"
+                    },
+                    "Weight": 1
+                  }
+                ]
+              }
+            },
+            "weight": 3
+          },
+          {
+            "to": {
+              "Block": "minecraft:mob_spawner:0",
+              "NBT": {
+                "MaxNearbyEntities": 6,
+                "RequiredPlayerRange": 16,
+                "SpawnCount": 4,
+                "SpawnData": {
+                  "id": "minecraft:spider"
+                },
+                "MaxSpawnDelay": 800,
+                "id": "minecraft:mob_spawner",
+                "SpawnRange": 4,
+                "Delay": 0,
+                "MinSpawnDelay": 200,
+                "SpawnPotentials": [
+                  {
+                    "Entity": {
+                      "id": "minecraft:spider"
+                    },
+                    "Weight": 1
+                  }
+                ]
+              }
+            },
+            "weight": 3
+          },
+          {
+            "to": {
+              "Block": "minecraft:mob_spawner:0",
+              "NBT": {
+                "MaxNearbyEntities": 6,
+                "RequiredPlayerRange": 16,
+                "SpawnCount": 4,
+                "SpawnData": {
+                  "id": "minecraft:enderman"
+                },
+                "MaxSpawnDelay": 800,
+                "id": "minecraft:mob_spawner",
+                "SpawnRange": 4,
+                "Delay": 0,
+                "MinSpawnDelay": 200,
+                "SpawnPotentials": [
+                  {
+                    "Entity": {
+                      "id": "minecraft:enderman"
+                    },
+                    "Weight": 1
+                  }
+                ]
+              }
+            },
+            "weight": 2
+          }
+        ]
+      ],
+      [
+        {
+          "Block": "minecraft:soulsand:0"
+        },
+        [
+          {
+            "to": {
+              "Block": "minecraft:end_stone:0"
+            },
+            "weight": 1
+          }
+        ]
+      ],
+      [
+        {
+          "oreDictionary": "stone"
+        },
+        [
+          {
+            "to": {
+              "Block": "minecraft:diamond_ore:0"
+            },
+            "weight": 1
+          },
+          {
+            "to": {
+              "Block": "immersiveengineering:ore:5"
+            },
+            "weight": 2
+          }
+        ]
+      ]
+    ]
+  }
+]

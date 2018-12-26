@@ -1,0 +1,64 @@
+[
+  [
+    {
+      "oreDictionary": "logWood"
+    },
+    [
+      {
+        "Block": "parachronology:petrifiedwood:0"
+      }
+    ]
+  ],
+  [
+    {
+      "Block": "minecraft:wool:-1"
+    },
+    [
+      {
+        "Block": "minecraft:wool:1"
+      },
+      {
+        "Block": "minecraft:wool:2"
+      },
+      {
+        "Block": "minecraft:wool:3"
+      },
+      {
+        "Block": "minecraft:wool:4"
+      },
+      {
+        "Block": "minecraft:wool:5"
+      },
+      {
+        "Block": "minecraft:wool:6"
+      },
+      {
+        "Block": "minecraft:wool:7"
+      },
+      {
+        "Block": "minecraft:wool:8"
+      },
+      {
+        "Block": "minecraft:wool:9"
+      },
+      {
+        "Block": "minecraft:wool:10"
+      },
+      {
+        "Block": "minecraft:wool:11"
+      },
+      {
+        "Block": "minecraft:wool:12"
+      },
+      {
+        "Block": "minecraft:wool:13"
+      },
+      {
+        "Block": "minecraft:wool:14"
+      },
+      {
+        "Block": "minecraft:wool:15"
+      }
+    ]
+  ]
+]
