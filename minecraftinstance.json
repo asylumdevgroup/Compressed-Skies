@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2018-12-26T03:11:25.1677657Z",
+  "lastPlayed": "2018-12-31T21:30:42.6387656Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -34,6 +34,21 @@
   "name": "Compressed-Skies",
   "cachedScans": [
     {
+      "folderName": "ResourceLoader-MC1.12.1-1.5.3.jar",
+      "fingerprint": 699442863,
+      "fileDateHash": 2090772539,
+      "sectionID": 6,
+      "individualFingerprints": [
+        699442863
+      ],
+      "status": 1,
+      "timestamp": "2018-12-27T03:16:38.8479422Z",
+      "lastWriteTimeUtc": "2018-12-26T03:10:41.9622184Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5810286Z",
+      "fileCount": 1,
+      "fileSize": 16612
+    },
+    {
       "folderName": "SteamWorld 1.12.2-0.4.0.2.jar",
       "fingerprint": 3789175205,
       "fileDateHash": 2756478892,
@@ -44,24 +59,24 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.6080481Z",
       "lastWriteTimeUtc": "2018-12-26T03:07:49.3666464Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7536586Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5820259Z",
       "fileCount": 1,
       "fileSize": 1292377
     },
     {
-      "folderName": "StandardExpansion-3.4.145.jar",
-      "fingerprint": 335835576,
-      "fileDateHash": 4040515933,
+      "folderName": "foamfix-0.10.3-1.12.2.jar",
+      "fingerprint": 1322124505,
+      "fileDateHash": 1915663113,
       "sectionID": 6,
       "individualFingerprints": [
-        335835576
+        1322124505
       ],
       "status": 1,
-      "timestamp": "2018-12-26T03:08:41.6060535Z",
-      "lastWriteTimeUtc": "2018-12-26T03:06:20.5021079Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7536586Z",
+      "timestamp": "2018-12-27T03:16:38.8369715Z",
+      "lastWriteTimeUtc": "2018-12-26T03:10:18.1687978Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5820259Z",
       "fileCount": 1,
-      "fileSize": 394590
+      "fileSize": 216000
     },
     {
       "folderName": "Mantle-1.12-1.3.3.39.jar",
@@ -74,9 +89,24 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.550202Z",
       "lastWriteTimeUtc": "2018-12-26T03:07:13.0337335Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7536586Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5820259Z",
       "fileCount": 1,
       "fileSize": 839004
+    },
+    {
+      "folderName": "CustomMainMenu-MC1.12.2-2.0.9.jar",
+      "fingerprint": 3309587501,
+      "fileDateHash": 970390683,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3309587501
+      ],
+      "status": 1,
+      "timestamp": "2018-12-27T03:16:38.8230087Z",
+      "lastWriteTimeUtc": "2018-12-26T03:10:40.4642204Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5820259Z",
+      "fileCount": 1,
+      "fileSize": 177791
     },
     {
       "folderName": "Earthworks-1.12-1.3.6.jar",
@@ -89,7 +119,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:04:59.8436405Z",
       "lastWriteTimeUtc": "2018-12-26T03:04:56.0108823Z",
-      "queryTimestamp": "2018-12-26T03:05:00.3153804Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5820259Z",
       "fileCount": 1,
       "fileSize": 705301
     },
@@ -104,7 +134,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.4365064Z",
       "lastWriteTimeUtc": "2018-12-26T03:06:42.2150861Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7536586Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5820259Z",
       "fileCount": 1,
       "fileSize": 895338
     },
@@ -119,7 +149,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.528261Z",
       "lastWriteTimeUtc": "2018-12-26T03:07:03.4902366Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7536586Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5820259Z",
       "fileCount": 1,
       "fileSize": 1831161
     },
@@ -134,7 +164,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.6170243Z",
       "lastWriteTimeUtc": "2018-12-26T03:07:53.3978739Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7536586Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5820259Z",
       "fileCount": 1,
       "fileSize": 242440
     },
@@ -149,7 +179,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.3876368Z",
       "lastWriteTimeUtc": "2018-12-26T03:06:27.5373082Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7536586Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5820259Z",
       "fileCount": 1,
       "fileSize": 70895
     },
@@ -164,7 +194,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.4285291Z",
       "lastWriteTimeUtc": "2018-12-26T03:06:36.8574027Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7536586Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5820259Z",
       "fileCount": 1,
       "fileSize": 730497
     },
@@ -179,24 +209,9 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.4554561Z",
       "lastWriteTimeUtc": "2018-12-26T03:06:49.0887196Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7536586Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5830226Z",
       "fileCount": 1,
       "fileSize": 5231522
-    },
-    {
-      "folderName": "questbook-3.1.1-1.12.jar",
-      "fingerprint": 2656715831,
-      "fileDateHash": 1922568269,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2656715831
-      ],
-      "status": 1,
-      "timestamp": "2018-12-26T03:08:41.5950822Z",
-      "lastWriteTimeUtc": "2018-12-26T03:08:18.4289858Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7536586Z",
-      "fileCount": 1,
-      "fileSize": 20203
     },
     {
       "folderName": "hatchery-1.12.2-2.1.4.jar",
@@ -209,7 +224,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.4993378Z",
       "lastWriteTimeUtc": "2018-12-26T03:06:57.0683959Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7536586Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5830226Z",
       "fileCount": 1,
       "fileSize": 629936
     },
@@ -224,7 +239,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.5561869Z",
       "lastWriteTimeUtc": "2018-12-26T03:07:20.3481877Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7536586Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5830226Z",
       "fileCount": 1,
       "fileSize": 303786
     },
@@ -239,7 +254,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:04:59.9483606Z",
       "lastWriteTimeUtc": "2018-12-26T03:04:56.2652025Z",
-      "queryTimestamp": "2018-12-26T03:05:00.3163772Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5830226Z",
       "fileCount": 1,
       "fileSize": 1437801
     },
@@ -254,7 +269,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:04:59.9443713Z",
       "lastWriteTimeUtc": "2018-12-26T03:04:56.209352Z",
-      "queryTimestamp": "2018-12-26T03:05:00.3163772Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5830226Z",
       "fileCount": 1,
       "fileSize": 17340
     },
@@ -269,24 +284,9 @@
       "status": 1,
       "timestamp": "2018-12-26T03:05:00.0101964Z",
       "lastWriteTimeUtc": "2018-12-26T03:04:56.4377416Z",
-      "queryTimestamp": "2018-12-26T03:05:00.3163772Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5830226Z",
       "fileCount": 1,
       "fileSize": 338984
-    },
-    {
-      "folderName": "BloodArsenal-1.12.2-2.1.0-26.jar",
-      "fingerprint": 167564559,
-      "fileDateHash": 70768207,
-      "sectionID": 6,
-      "individualFingerprints": [
-        167564559
-      ],
-      "status": 1,
-      "timestamp": "2018-12-26T03:08:41.3876368Z",
-      "lastWriteTimeUtc": "2018-12-26T03:06:29.1579772Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7546561Z",
-      "fileCount": 1,
-      "fileSize": 645441
     },
     {
       "folderName": "Baubles-1.12-1.5.2.jar",
@@ -299,9 +299,24 @@
       "status": 1,
       "timestamp": "2018-12-26T03:04:59.7498917Z",
       "lastWriteTimeUtc": "2018-12-26T03:04:55.7216555Z",
-      "queryTimestamp": "2018-12-26T03:05:00.3163772Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5830226Z",
       "fileCount": 1,
       "fileSize": 108450
+    },
+    {
+      "folderName": "BloodArsenal-1.12.2-2.1.0-26.jar",
+      "fingerprint": 167564559,
+      "fileDateHash": 70768207,
+      "sectionID": 6,
+      "individualFingerprints": [
+        167564559
+      ],
+      "status": 1,
+      "timestamp": "2018-12-26T03:08:41.3876368Z",
+      "lastWriteTimeUtc": "2018-12-26T03:06:29.1579772Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5830226Z",
+      "fileCount": 1,
+      "fileSize": 645441
     },
     {
       "folderName": "efab-0.1.1.jar",
@@ -314,7 +329,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.4534611Z",
       "lastWriteTimeUtc": "2018-12-26T03:06:46.3829489Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7546561Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5830226Z",
       "fileCount": 1,
       "fileSize": 516606
     },
@@ -329,7 +344,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.4135677Z",
       "lastWriteTimeUtc": "2018-12-26T03:06:34.6413249Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7546561Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5830226Z",
       "fileCount": 1,
       "fileSize": 4310011
     },
@@ -344,7 +359,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.5771301Z",
       "lastWriteTimeUtc": "2018-12-26T03:07:27.0801987Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7546561Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5840201Z",
       "fileCount": 1,
       "fileSize": 184850
     },
@@ -359,7 +374,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:04:59.8915126Z",
       "lastWriteTimeUtc": "2018-12-26T03:04:58.5291529Z",
-      "queryTimestamp": "2018-12-26T03:05:00.3163772Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5840201Z",
       "fileCount": 1,
       "fileSize": 1674251
     },
@@ -374,7 +389,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:04:59.9573369Z",
       "lastWriteTimeUtc": "2018-12-26T03:04:56.4227815Z",
-      "queryTimestamp": "2018-12-26T03:05:00.3163772Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5840201Z",
       "fileCount": 1,
       "fileSize": 16020358
     },
@@ -389,7 +404,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.5571844Z",
       "lastWriteTimeUtc": "2018-12-26T03:07:22.5173918Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7546561Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5840201Z",
       "fileCount": 1,
       "fileSize": 1142256
     },
@@ -404,7 +419,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:05:00.0700356Z",
       "lastWriteTimeUtc": "2018-12-26T03:04:58.2658565Z",
-      "queryTimestamp": "2018-12-26T03:05:00.3163772Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5840201Z",
       "fileCount": 1,
       "fileSize": 17112536
     },
@@ -419,24 +434,9 @@
       "status": 1,
       "timestamp": "2018-12-26T03:04:59.8067398Z",
       "lastWriteTimeUtc": "2018-12-26T03:04:58.378555Z",
-      "queryTimestamp": "2018-12-26T03:05:00.3163772Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5840201Z",
       "fileCount": 1,
       "fileSize": 253835
-    },
-    {
-      "folderName": "Patchouli-1.0-13.jar",
-      "fingerprint": 1092166681,
-      "fileDateHash": 2660459217,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1092166681
-      ],
-      "status": 1,
-      "timestamp": "2018-12-26T03:08:41.5781273Z",
-      "lastWriteTimeUtc": "2018-12-26T03:07:28.492425Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7556542Z",
-      "fileCount": 1,
-      "fileSize": 452514
     },
     {
       "folderName": "Chameleon-1.12-4.1.3.jar",
@@ -449,9 +449,24 @@
       "status": 1,
       "timestamp": "2018-12-26T03:04:59.8057422Z",
       "lastWriteTimeUtc": "2018-12-26T03:04:55.8732502Z",
-      "queryTimestamp": "2018-12-26T03:05:00.3173742Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5840201Z",
       "fileCount": 1,
       "fileSize": 96859
+    },
+    {
+      "folderName": "Patchouli-1.0-13.jar",
+      "fingerprint": 1092166681,
+      "fileDateHash": 2660459217,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1092166681
+      ],
+      "status": 1,
+      "timestamp": "2018-12-26T03:08:41.5781273Z",
+      "lastWriteTimeUtc": "2018-12-26T03:07:28.492425Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5840201Z",
+      "fileCount": 1,
+      "fileSize": 452514
     },
     {
       "folderName": "CraftTweaker2-1.12-4.1.13.jar",
@@ -464,7 +479,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.4325171Z",
       "lastWriteTimeUtc": "2018-12-26T03:06:40.7599746Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7556542Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5840201Z",
       "fileCount": 1,
       "fileSize": 1315744
     },
@@ -479,7 +494,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.6150303Z",
       "lastWriteTimeUtc": "2018-12-26T03:06:05.4273901Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7556542Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5840201Z",
       "fileCount": 1,
       "fileSize": 582445
     },
@@ -494,24 +509,9 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.5232741Z",
       "lastWriteTimeUtc": "2018-12-26T03:07:01.2851278Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7556542Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5840201Z",
       "fileCount": 1,
       "fileSize": 946221
-    },
-    {
-      "folderName": "wizardry-0.9.7.jar",
-      "fingerprint": 248358358,
-      "fileDateHash": 2715264762,
-      "sectionID": 6,
-      "individualFingerprints": [
-        248358358
-      ],
-      "status": 1,
-      "timestamp": "2018-12-26T03:08:41.6190188Z",
-      "lastWriteTimeUtc": "2018-12-26T03:07:59.2462457Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7556542Z",
-      "fileCount": 1,
-      "fileSize": 8362007
     },
     {
       "folderName": "UnlimitedChiselWorks-Botany-0.1.2.jar",
@@ -524,9 +524,24 @@
       "status": 1,
       "timestamp": "2018-12-26T03:05:00.0700356Z",
       "lastWriteTimeUtc": "2018-12-26T03:04:58.1332116Z",
-      "queryTimestamp": "2018-12-26T03:05:00.3173742Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5840201Z",
       "fileCount": 1,
       "fileSize": 35010
+    },
+    {
+      "folderName": "wizardry-0.9.7.jar",
+      "fingerprint": 248358358,
+      "fileDateHash": 2715264762,
+      "sectionID": 6,
+      "individualFingerprints": [
+        248358358
+      ],
+      "status": 1,
+      "timestamp": "2018-12-26T03:08:41.6190188Z",
+      "lastWriteTimeUtc": "2018-12-26T03:07:59.2462457Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5850171Z",
+      "fileCount": 1,
+      "fileSize": 8362007
     },
     {
       "folderName": "BloodMagic-1.12.2-2.3.3-101.jar",
@@ -539,9 +554,24 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.3906294Z",
       "lastWriteTimeUtc": "2018-12-26T03:06:31.6712613Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7556542Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5850171Z",
       "fileCount": 1,
       "fileSize": 7064754
+    },
+    {
+      "folderName": "Controlling-3.0.6.jar",
+      "fingerprint": 2220369187,
+      "fileDateHash": 2910554976,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2220369187
+      ],
+      "status": 1,
+      "timestamp": "2018-12-27T03:16:38.8140324Z",
+      "lastWriteTimeUtc": "2018-12-26T03:10:57.9734328Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5850171Z",
+      "fileCount": 1,
+      "fileSize": 26034
     },
     {
       "folderName": "rustic-1.0.12.jar",
@@ -554,7 +584,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.6020636Z",
       "lastWriteTimeUtc": "2018-12-26T03:07:45.5927304Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7556542Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5850171Z",
       "fileCount": 1,
       "fileSize": 1324821
     },
@@ -569,7 +599,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:05:00.0111934Z",
       "lastWriteTimeUtc": "2018-12-26T03:04:57.6834132Z",
-      "queryTimestamp": "2018-12-26T03:05:00.3173742Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5850171Z",
       "fileCount": 1,
       "fileSize": 161142
     },
@@ -584,7 +614,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.6020636Z",
       "lastWriteTimeUtc": "2018-12-26T03:07:41.1486064Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7556542Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5850171Z",
       "fileCount": 1,
       "fileSize": 26075
     },
@@ -599,7 +629,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.4943512Z",
       "lastWriteTimeUtc": "2018-12-26T03:06:53.7353027Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7556542Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5850171Z",
       "fileCount": 1,
       "fileSize": 1363345
     },
@@ -614,24 +644,9 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.5791246Z",
       "lastWriteTimeUtc": "2018-12-26T03:08:05.601264Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7566512Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5850171Z",
       "fileCount": 1,
       "fileSize": 668664
-    },
-    {
-      "folderName": "BetterQuesting-3.5.280.jar",
-      "fingerprint": 295619863,
-      "fileDateHash": 1528726374,
-      "sectionID": 6,
-      "individualFingerprints": [
-        295619863
-      ],
-      "status": 1,
-      "timestamp": "2018-12-26T03:08:41.3637011Z",
-      "lastWriteTimeUtc": "2018-12-26T03:06:14.7843862Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7566512Z",
-      "fileCount": 1,
-      "fileSize": 1338259
     },
     {
       "folderName": "Quark-r1.5-135.jar",
@@ -644,7 +659,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.5891002Z",
       "lastWriteTimeUtc": "2018-12-26T03:07:38.2154447Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7566512Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5850171Z",
       "fileCount": 1,
       "fileSize": 1983355
     },
@@ -659,7 +674,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.6180215Z",
       "lastWriteTimeUtc": "2018-12-26T03:07:55.4085009Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7566512Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5850171Z",
       "fileCount": 1,
       "fileSize": 96637
     },
@@ -674,7 +689,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.6120374Z",
       "lastWriteTimeUtc": "2018-12-26T03:07:50.8417049Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7566512Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5860144Z",
       "fileCount": 1,
       "fileSize": 596220
     },
@@ -689,7 +704,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:04:59.9254219Z",
       "lastWriteTimeUtc": "2018-12-26T03:04:58.5989663Z",
-      "queryTimestamp": "2018-12-26T03:05:00.3173742Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5860144Z",
       "fileCount": 1,
       "fileSize": 117480
     },
@@ -704,7 +719,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.5611727Z",
       "lastWriteTimeUtc": "2018-12-26T03:07:25.6649806Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7566512Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5860144Z",
       "fileCount": 1,
       "fileSize": 4738662
     },
@@ -719,7 +734,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.5811197Z",
       "lastWriteTimeUtc": "2018-12-26T03:07:32.5844903Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7566512Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5860144Z",
       "fileCount": 1,
       "fileSize": 2207322
     },
@@ -734,7 +749,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.5541916Z",
       "lastWriteTimeUtc": "2018-12-26T03:07:16.021749Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7566512Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5860144Z",
       "fileCount": 1,
       "fileSize": 430351
     },
@@ -749,7 +764,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:04:59.7498917Z",
       "lastWriteTimeUtc": "2018-12-26T03:04:58.2947797Z",
-      "queryTimestamp": "2018-12-26T03:05:00.3173742Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5860144Z",
       "fileCount": 1,
       "fileSize": 1962731
     },
@@ -764,7 +779,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:05:00.014186Z",
       "lastWriteTimeUtc": "2018-12-26T03:04:56.2412667Z",
-      "queryTimestamp": "2018-12-26T03:05:00.3173742Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5860144Z",
       "fileCount": 1,
       "fileSize": 30005
     },
@@ -779,7 +794,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.5950822Z",
       "lastWriteTimeUtc": "2018-12-26T03:07:39.8959532Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7566512Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5860144Z",
       "fileCount": 1,
       "fileSize": 1896159
     },
@@ -794,7 +809,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:04:59.7468994Z",
       "lastWriteTimeUtc": "2018-12-26T03:04:55.6947269Z",
-      "queryTimestamp": "2018-12-26T03:05:00.3183717Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5860144Z",
       "fileCount": 1,
       "fileSize": 32317
     },
@@ -809,7 +824,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.5013326Z",
       "lastWriteTimeUtc": "2018-12-26T03:06:59.5537546Z",
-      "queryTimestamp": "2018-12-26T03:08:41.757649Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5860144Z",
       "fileCount": 1,
       "fileSize": 6516615
     },
@@ -824,7 +839,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.4983408Z",
       "lastWriteTimeUtc": "2018-12-26T03:06:54.9690057Z",
-      "queryTimestamp": "2018-12-26T03:08:41.757649Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5860144Z",
       "fileCount": 1,
       "fileSize": 169528
     },
@@ -839,7 +854,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.5561869Z",
       "lastWriteTimeUtc": "2018-12-26T03:07:17.4519272Z",
-      "queryTimestamp": "2018-12-26T03:08:41.757649Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5870114Z",
       "fileCount": 1,
       "fileSize": 70086
     },
@@ -892,7 +907,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:05:52.7542553Z",
       "lastWriteTimeUtc": "2018-12-26T03:04:59.5524185Z",
-      "queryTimestamp": "2018-12-26T03:05:52.8888946Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5870114Z",
       "fileCount": 14,
       "fileSize": 0
     },
@@ -907,7 +922,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.4394988Z",
       "lastWriteTimeUtc": "2018-12-26T03:06:38.5997475Z",
-      "queryTimestamp": "2018-12-26T03:08:41.757649Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5870114Z",
       "fileCount": 1,
       "fileSize": 194281
     },
@@ -922,7 +937,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.4893649Z",
       "lastWriteTimeUtc": "2018-12-26T03:06:52.0797269Z",
-      "queryTimestamp": "2018-12-26T03:08:41.757649Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5870114Z",
       "fileCount": 1,
       "fileSize": 885618
     },
@@ -937,24 +952,9 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.4923572Z",
       "lastWriteTimeUtc": "2018-12-26T03:06:50.5817289Z",
-      "queryTimestamp": "2018-12-26T03:08:41.757649Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5870114Z",
       "fileCount": 1,
       "fileSize": 429912
-    },
-    {
-      "folderName": "Forgelin-1.8.2.jar",
-      "fingerprint": 3233439295,
-      "fileDateHash": 1272569426,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3233439295
-      ],
-      "status": 1,
-      "timestamp": "2018-12-26T03:08:41.47241Z",
-      "lastWriteTimeUtc": "2018-12-26T03:07:47.7389958Z",
-      "queryTimestamp": "2018-12-26T03:08:41.757649Z",
-      "fileCount": 1,
-      "fileSize": 5124663
     },
     {
       "folderName": "InventoryTweaks-1.63.jar",
@@ -967,9 +967,24 @@
       "status": 1,
       "timestamp": "2018-12-26T03:04:59.9204363Z",
       "lastWriteTimeUtc": "2018-12-26T03:04:56.1814266Z",
-      "queryTimestamp": "2018-12-26T03:05:00.3183717Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5870114Z",
       "fileCount": 1,
       "fileSize": 263258
+    },
+    {
+      "folderName": "Forgelin-1.8.2.jar",
+      "fingerprint": 3233439295,
+      "fileDateHash": 1272569426,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3233439295
+      ],
+      "status": 1,
+      "timestamp": "2018-12-26T03:08:41.47241Z",
+      "lastWriteTimeUtc": "2018-12-26T03:07:47.7389958Z",
+      "queryTimestamp": "2018-12-31T17:32:00.5870114Z",
+      "fileCount": 1,
+      "fileSize": 5124663
     },
     {
       "folderName": "AutoRegLib-1.3-20.jar",
@@ -982,7 +997,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.3627041Z",
       "lastWriteTimeUtc": "2018-12-26T03:06:06.9453327Z",
-      "queryTimestamp": "2018-12-26T03:08:41.757649Z",
+      "queryTimestamp": "2018-12-31T17:32:00.590004Z",
       "fileCount": 1,
       "fileSize": 97062
     },
@@ -997,7 +1012,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.4404969Z",
       "lastWriteTimeUtc": "2018-12-26T03:06:44.1838251Z",
-      "queryTimestamp": "2018-12-26T03:08:41.757649Z",
+      "queryTimestamp": "2018-12-31T17:32:00.590004Z",
       "fileCount": 1,
       "fileSize": 3660695
     },
@@ -1012,7 +1027,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.552197Z",
       "lastWriteTimeUtc": "2018-12-26T03:07:14.3432345Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7586462Z",
+      "queryTimestamp": "2018-12-31T17:32:00.590004Z",
       "fileCount": 1,
       "fileSize": 492317
     },
@@ -1027,7 +1042,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.5342449Z",
       "lastWriteTimeUtc": "2018-12-26T03:07:06.2498611Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7586462Z",
+      "queryTimestamp": "2018-12-31T17:32:00.590004Z",
       "fileCount": 1,
       "fileSize": 219114
     },
@@ -1042,7 +1057,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.3686877Z",
       "lastWriteTimeUtc": "2018-12-26T03:06:25.8238872Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7586462Z",
+      "queryTimestamp": "2018-12-31T17:32:00.590004Z",
       "fileCount": 1,
       "fileSize": 5861232
     },
@@ -1057,7 +1072,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.3637011Z",
       "lastWriteTimeUtc": "2018-12-26T03:06:08.6667329Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7586462Z",
+      "queryTimestamp": "2018-12-31T17:32:00.590004Z",
       "fileCount": 1,
       "fileSize": 76143
     },
@@ -1072,7 +1087,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.5262665Z",
       "lastWriteTimeUtc": "2018-12-26T03:07:04.8416249Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7586462Z",
+      "queryTimestamp": "2018-12-31T17:32:00.590004Z",
       "fileCount": 1,
       "fileSize": 620418
     },
@@ -1087,7 +1102,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.5462126Z",
       "lastWriteTimeUtc": "2018-12-26T03:07:10.966258Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7586462Z",
+      "queryTimestamp": "2018-12-31T17:32:00.590004Z",
       "fileCount": 1,
       "fileSize": 1184851
     },
@@ -1102,7 +1117,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:05:00.0610597Z",
       "lastWriteTimeUtc": "2018-12-26T03:04:58.8044174Z",
-      "queryTimestamp": "2018-12-26T03:05:00.3183717Z",
+      "queryTimestamp": "2018-12-31T17:32:00.590004Z",
       "fileCount": 1,
       "fileSize": 47884
     },
@@ -1117,7 +1132,7 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.6140319Z",
       "lastWriteTimeUtc": "2018-12-26T03:07:52.1571895Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7596424Z",
+      "queryTimestamp": "2018-12-31T17:32:00.591001Z",
       "fileCount": 1,
       "fileSize": 301674
     },
@@ -1132,13 +1147,13 @@
       "status": 1,
       "timestamp": "2018-12-26T03:08:41.5352421Z",
       "lastWriteTimeUtc": "2018-12-26T03:07:08.3442647Z",
-      "queryTimestamp": "2018-12-26T03:08:41.7596424Z",
+      "queryTimestamp": "2018-12-31T17:32:00.591001Z",
       "fileCount": 1,
       "fileSize": 3238891
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2018-12-26T03:05:00.5088633Z",
+  "lastPreviousMatchUpdate": "2018-12-31T17:32:00.8173949Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -1208,7 +1223,7 @@
       "dateInstalled": "2018-06-07T01:54:48.683327Z",
       "dateUpdated": "2018-12-26T03:07:01.289118Z",
       "dateLastUpdateAttempted": "2018-12-26T03:07:01.289118Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1266,7 +1281,7 @@
       "dateInstalled": "2018-06-07T01:54:48.6863183Z",
       "dateUpdated": "2018-12-26T03:07:17.452925Z",
       "dateLastUpdateAttempted": "2018-12-26T03:07:17.452925Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1328,7 +1343,7 @@
       "dateInstalled": "2018-06-07T01:54:48.6873158Z",
       "dateUpdated": "2018-12-26T03:07:25.6709696Z",
       "dateLastUpdateAttempted": "2018-12-26T03:07:25.6709696Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1530,7 +1545,7 @@
       "dateInstalled": "2018-06-07T01:54:48.6883131Z",
       "dateUpdated": "2018-12-26T03:07:14.3452296Z",
       "dateLastUpdateAttempted": "2018-12-26T03:07:14.3452296Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1545,14 +1560,14 @@
       "addonID": 250363,
       "gameInstanceID": "1c856547-b829-4bfb-9b18-dab736d563ad",
       "installedFile": {
-        "id": 2605109,
-        "fileName": "AutoRegLib-1.3-20.jar",
-        "fileNameOnDisk": "AutoRegLib-1.3-20.jar",
-        "fileDate": "2018-08-18T15:26:02.333",
-        "fileLength": 97062,
+        "id": 2652766,
+        "fileName": "AutoRegLib-1.3-24.jar",
+        "fileNameOnDisk": "AutoRegLib-1.3-24.jar",
+        "fileDate": "2018-12-26T22:34:32.377",
+        "fileLength": 101437,
         "releaseType": 1,
         "fileStatus": 2,
-        "downloadUrl": "https://files.forgecdn.net/files/2605/109/AutoRegLib-1.3-20.jar",
+        "downloadUrl": "https://files.forgecdn.net/files/2652/766/AutoRegLib-1.3-24.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -1560,30 +1575,30 @@
         "modules": [
           {
             "folderName": "META-INF",
-            "fimgerprint": 376913235
+            "fimgerprint": 1872893533
           },
           {
             "folderName": "vazkii",
-            "fimgerprint": 3354224989
-          },
-          {
-            "folderName": "mcmod.info",
-            "fimgerprint": 432438487
+            "fimgerprint": 483772335
           },
           {
             "folderName": "assets",
-            "fimgerprint": 3660624198
+            "fimgerprint": 1346084177
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 3960064875
           }
         ],
-        "packageFingerprint": 4205760893,
+        "packageFingerprint": 2539226764,
         "gameVersion": [
           "1.12.2"
         ],
         "installMetadata": null
       },
       "dateInstalled": "2018-06-07T01:54:48.6893098Z",
-      "dateUpdated": "2018-12-26T03:06:06.9473277Z",
-      "dateLastUpdateAttempted": "2018-12-26T03:06:06.9473277Z",
+      "dateUpdated": "2018-12-31T21:28:17.7260644Z",
+      "dateLastUpdateAttempted": "2018-12-31T21:28:17.7260644Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -1655,14 +1670,14 @@
       "addonID": 243121,
       "gameInstanceID": "1c856547-b829-4bfb-9b18-dab736d563ad",
       "installedFile": {
-        "id": 2646070,
-        "fileName": "Quark-r1.5-135.jar",
-        "fileNameOnDisk": "Quark-r1.5-135.jar",
-        "fileDate": "2018-12-10T13:56:46.247",
-        "fileLength": 1983355,
+        "id": 2652981,
+        "fileName": "Quark-r1.5-137.jar",
+        "fileNameOnDisk": "Quark-r1.5-137.jar",
+        "fileDate": "2018-12-27T16:28:40.417",
+        "fileLength": 1990606,
         "releaseType": 1,
         "fileStatus": 2,
-        "downloadUrl": "https://files.forgecdn.net/files/2646/70/Quark-r1.5-135.jar",
+        "downloadUrl": "https://files.forgecdn.net/files/2652/981/Quark-r1.5-137.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -1675,7 +1690,7 @@
         "modules": [
           {
             "folderName": "META-INF",
-            "fimgerprint": 4122465500
+            "fimgerprint": 712082514
           },
           {
             "folderName": "betterwithmods",
@@ -1683,11 +1698,11 @@
           },
           {
             "folderName": "vazkii",
-            "fimgerprint": 2757430312
+            "fimgerprint": 4269089813
           },
           {
             "folderName": "mcmod.info",
-            "fimgerprint": 2785511472
+            "fimgerprint": 3081958077
           },
           {
             "folderName": "proxypack.mcmeta",
@@ -1695,18 +1710,18 @@
           },
           {
             "folderName": "assets",
-            "fimgerprint": 1751950169
+            "fimgerprint": 1844257138
           }
         ],
-        "packageFingerprint": 1798263809,
+        "packageFingerprint": 813126196,
         "gameVersion": [
           "1.12.2"
         ],
         "installMetadata": null
       },
       "dateInstalled": "2018-06-07T01:54:48.6903073Z",
-      "dateUpdated": "2018-12-26T03:07:38.2184362Z",
-      "dateLastUpdateAttempted": "2018-12-26T03:07:38.2184362Z",
+      "dateUpdated": "2018-12-31T21:28:56.0225867Z",
+      "dateLastUpdateAttempted": "2018-12-31T21:28:56.0225867Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -1776,7 +1791,7 @@
       "dateInstalled": "2018-06-07T01:54:48.6913046Z",
       "dateUpdated": "2018-12-26T03:06:36.8593978Z",
       "dateLastUpdateAttempted": "2018-12-26T03:06:36.8593978Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1839,7 +1854,7 @@
       "dateInstalled": "2018-06-07T01:54:48.6913046Z",
       "dateUpdated": "2018-12-26T03:07:06.2518556Z",
       "dateLastUpdateAttempted": "2018-12-26T03:07:06.2518556Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1897,7 +1912,7 @@
       "dateInstalled": "2018-06-07T01:54:48.6913046Z",
       "dateUpdated": "2018-12-26T03:07:13.0377237Z",
       "dateLastUpdateAttempted": "2018-12-26T03:07:13.0377237Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1980,7 +1995,7 @@
       "dateInstalled": "2018-06-07T01:54:48.6923027Z",
       "dateUpdated": "2018-12-26T03:07:03.4942254Z",
       "dateLastUpdateAttempted": "2018-12-26T03:07:03.4942254Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2100,7 +2115,7 @@
       "dateInstalled": "2018-06-07T01:54:48.6942969Z",
       "dateUpdated": "2018-12-26T03:06:08.6687277Z",
       "dateLastUpdateAttempted": "2018-12-26T03:06:08.6687277Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2235,7 +2250,7 @@
       "dateInstalled": "2018-06-07T01:54:48.6952945Z",
       "dateUpdated": "2018-12-26T03:06:50.583724Z",
       "dateLastUpdateAttempted": "2018-12-26T03:06:50.583724Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2299,7 +2314,7 @@
       "dateInstalled": "2018-06-07T01:54:48.6952945Z",
       "dateUpdated": "2018-12-26T03:06:34.6483063Z",
       "dateLastUpdateAttempted": "2018-12-26T03:06:34.6483063Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2427,7 +2442,7 @@
       "dateInstalled": "2018-06-07T01:54:48.6962915Z",
       "dateUpdated": "2018-12-26T03:06:52.0817215Z",
       "dateLastUpdateAttempted": "2018-12-26T03:06:52.0817215Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2486,7 +2501,7 @@
       "dateInstalled": "2018-06-07T01:54:48.6972887Z",
       "dateUpdated": "2018-12-26T03:07:22.5213819Z",
       "dateLastUpdateAttempted": "2018-12-26T03:07:22.5213819Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2545,7 +2560,7 @@
       "dateInstalled": "2018-06-07T01:54:48.6972887Z",
       "dateUpdated": "2018-12-26T03:06:25.8298705Z",
       "dateLastUpdateAttempted": "2018-12-26T03:06:25.8298705Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2612,65 +2627,7 @@
       "dateInstalled": "2018-06-07T01:54:48.6972887Z",
       "dateUpdated": "2018-12-26T03:06:59.5607358Z",
       "dateLastUpdateAttempted": "2018-12-26T03:06:59.5607358Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 238857,
-      "gameInstanceID": "1c856547-b829-4bfb-9b18-dab736d563ad",
-      "installedFile": {
-        "id": 2606083,
-        "fileName": "StandardExpansion-3.4.145.jar",
-        "fileNameOnDisk": "StandardExpansion-3.4.145.jar",
-        "fileDate": "2018-08-20T10:05:30.493",
-        "fileLength": 394590,
-        "releaseType": 1,
-        "fileStatus": 2,
-        "downloadUrl": "https://files.forgecdn.net/files/2606/83/StandardExpansion-3.4.145.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "folderName": "META-INF",
-            "fimgerprint": 1393342709
-          },
-          {
-            "folderName": "bq_standard",
-            "fimgerprint": 2530804741
-          },
-          {
-            "folderName": "assets",
-            "fimgerprint": 2740310206
-          },
-          {
-            "folderName": "mcmod.info",
-            "fimgerprint": 2212314776
-          },
-          {
-            "folderName": "title.png",
-            "fimgerprint": 2032662626
-          }
-        ],
-        "packageFingerprint": 335835576,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "installMetadata": null
-      },
-      "dateInstalled": "2018-06-07T02:00:15.9373149Z",
-      "dateUpdated": "2018-12-26T03:06:20.5050997Z",
-      "dateLastUpdateAttempted": "2018-12-26T03:06:20.5050997Z",
-      "status": 3,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2741,7 +2698,7 @@
       "dateInstalled": "2018-06-07T02:00:38.5658117Z",
       "dateUpdated": "2018-12-26T03:07:52.1591845Z",
       "dateLastUpdateAttempted": "2018-12-26T03:07:52.1591845Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2812,7 +2769,7 @@
       "dateInstalled": "2018-06-07T02:00:38.5668087Z",
       "dateUpdated": "2018-12-26T03:07:53.400867Z",
       "dateLastUpdateAttempted": "2018-12-26T03:07:53.400867Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2868,7 +2825,7 @@
       "dateInstalled": "2018-06-07T02:01:52.9798436Z",
       "dateUpdated": "2018-12-26T03:06:54.9710007Z",
       "dateLastUpdateAttempted": "2018-12-26T03:06:54.9710007Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2935,7 +2892,7 @@
       "dateInstalled": "2018-06-07T02:01:53.9123509Z",
       "dateUpdated": "2018-12-26T03:06:31.6782432Z",
       "dateLastUpdateAttempted": "2018-12-26T03:06:31.6782432Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3004,7 +2961,7 @@
       "dateInstalled": "2018-06-07T02:01:58.4941001Z",
       "dateUpdated": "2018-12-26T03:07:47.7459769Z",
       "dateLastUpdateAttempted": "2018-12-26T03:07:47.7459769Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3127,7 +3084,7 @@
       "dateInstalled": "2018-06-11T23:06:05.9324458Z",
       "dateUpdated": "2018-12-26T03:07:39.9009403Z",
       "dateLastUpdateAttempted": "2018-12-26T03:07:39.9009403Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3190,7 +3147,7 @@
       "dateInstalled": "2018-06-11T23:06:06.9656836Z",
       "dateUpdated": "2018-12-26T03:07:41.1507057Z",
       "dateLastUpdateAttempted": "2018-12-26T03:07:41.1507057Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3255,7 +3212,7 @@
       "dateInstalled": "2018-12-26T03:05:00.4929059Z",
       "dateUpdated": "2018-12-26T03:07:08.3482541Z",
       "dateLastUpdateAttempted": "2018-12-26T03:07:08.3482541Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3264,7 +3221,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 277064,
@@ -3313,7 +3270,7 @@
       "dateInstalled": "2018-12-26T03:05:00.4958983Z",
       "dateUpdated": "2018-12-26T03:07:20.3491855Z",
       "dateLastUpdateAttempted": "2018-12-26T03:07:20.3491855Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3322,7 +3279,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 257818,
@@ -3372,7 +3329,7 @@
       "dateInstalled": "2018-12-26T03:05:00.4998873Z",
       "dateUpdated": "2018-12-26T03:07:10.9682536Z",
       "dateLastUpdateAttempted": "2018-12-26T03:07:10.9682536Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3381,7 +3338,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 255427,
@@ -3436,7 +3393,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 282607,
@@ -3489,7 +3446,7 @@
       "dateInstalled": "2018-12-26T03:05:00.4998873Z",
       "dateUpdated": "2018-12-26T03:07:49.3686412Z",
       "dateLastUpdateAttempted": "2018-12-26T03:07:49.3686412Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3498,7 +3455,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 239197,
@@ -3551,7 +3508,7 @@
       "dateInstalled": "2018-12-26T03:05:00.4998873Z",
       "dateUpdated": "2018-12-26T03:06:40.7619697Z",
       "dateLastUpdateAttempted": "2018-12-26T03:06:40.7619697Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3560,7 +3517,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 267602,
@@ -3602,7 +3559,7 @@
       "dateInstalled": "2018-12-26T03:05:00.4998873Z",
       "dateUpdated": "2018-12-26T03:06:38.6017415Z",
       "dateLastUpdateAttempted": "2018-12-26T03:06:38.6017415Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3611,7 +3568,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 280893,
@@ -3679,7 +3636,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 289732,
@@ -3737,7 +3694,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 268566,
@@ -3798,7 +3755,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 278493,
@@ -3860,7 +3817,7 @@
       "dateInstalled": "2018-12-26T03:05:00.5008843Z",
       "dateUpdated": "2018-12-26T03:07:55.4104954Z",
       "dateLastUpdateAttempted": "2018-12-26T03:07:55.4104954Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3869,7 +3826,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 223852,
@@ -3925,7 +3882,7 @@
       "dateInstalled": "2018-12-26T03:05:00.5008843Z",
       "dateUpdated": "2018-12-26T03:07:50.8436997Z",
       "dateLastUpdateAttempted": "2018-12-26T03:07:50.8436997Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3934,65 +3891,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 238856,
-      "gameInstanceID": "1c856547-b829-4bfb-9b18-dab736d563ad",
-      "installedFile": {
-        "id": 2650428,
-        "fileName": "BetterQuesting-3.5.280.jar",
-        "fileNameOnDisk": "BetterQuesting-3.5.280.jar",
-        "fileDate": "2018-12-20T07:07:31.417",
-        "fileLength": 1338259,
-        "releaseType": 1,
-        "fileStatus": 2,
-        "downloadUrl": "https://files.forgecdn.net/files/2650/428/BetterQuesting-3.5.280.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "folderName": "META-INF",
-            "fimgerprint": 199924029
-          },
-          {
-            "folderName": "betterquesting",
-            "fimgerprint": 2264959203
-          },
-          {
-            "folderName": "assets",
-            "fimgerprint": 1239556746
-          },
-          {
-            "folderName": "mcmod.info",
-            "fimgerprint": 3766166523
-          },
-          {
-            "folderName": "title.png",
-            "fimgerprint": 716088397
-          }
-        ],
-        "packageFingerprint": 295619863,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "installMetadata": null
-      },
-      "dateInstalled": "2018-12-26T03:05:00.5008843Z",
-      "dateUpdated": "2018-12-26T03:06:14.7873788Z",
-      "dateLastUpdateAttempted": "2018-12-26T03:06:14.7873788Z",
-      "status": 3,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 268560,
@@ -4052,7 +3951,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 293954,
@@ -4110,7 +4009,7 @@
       "dateInstalled": "2018-12-26T03:05:00.5018813Z",
       "dateUpdated": "2018-12-26T03:06:46.3859412Z",
       "dateLastUpdateAttempted": "2018-12-26T03:06:46.3859412Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4119,7 +4018,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 256141,
@@ -4168,7 +4067,7 @@
       "dateInstalled": "2018-12-26T03:05:00.5018813Z",
       "dateUpdated": "2018-12-26T03:07:45.594725Z",
       "dateLastUpdateAttempted": "2018-12-26T03:07:45.594725Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4177,7 +4076,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 246795,
@@ -4231,7 +4130,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 241941,
@@ -4302,20 +4201,20 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 238222,
       "gameInstanceID": "1c856547-b829-4bfb-9b18-dab736d563ad",
       "installedFile": {
-        "id": 2652087,
-        "fileName": "jei_1.12.2-4.14.3.241.jar",
-        "fileNameOnDisk": "jei_1.12.2-4.14.3.241.jar",
-        "fileDate": "2018-12-24T19:17:38.507",
-        "fileLength": 620418,
+        "id": 2652749,
+        "fileName": "jei_1.12.2-4.14.3.242.jar",
+        "fileNameOnDisk": "jei_1.12.2-4.14.3.242.jar",
+        "fileDate": "2018-12-26T21:37:39.473",
+        "fileLength": 620682,
         "releaseType": 2,
         "fileStatus": 2,
-        "downloadUrl": "https://files.forgecdn.net/files/2652/87/jei_1.12.2-4.14.3.241.jar",
+        "downloadUrl": "https://files.forgecdn.net/files/2652/749/jei_1.12.2-4.14.3.242.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -4323,15 +4222,15 @@
         "modules": [
           {
             "folderName": "META-INF",
-            "fimgerprint": 993663052
+            "fimgerprint": 1088452939
           },
           {
             "folderName": "mezz",
-            "fimgerprint": 3235616766
+            "fimgerprint": 910918059
           },
           {
             "folderName": "assets",
-            "fimgerprint": 1023868127
+            "fimgerprint": 2408275495
           },
           {
             "folderName": "pack.mcmeta",
@@ -4339,18 +4238,18 @@
           },
           {
             "folderName": "mcmod.info",
-            "fimgerprint": 3627780091
+            "fimgerprint": 1356397623
           }
         ],
-        "packageFingerprint": 3343076552,
+        "packageFingerprint": 2273728532,
         "gameVersion": [
           "1.12.2"
         ],
         "installMetadata": null
       },
       "dateInstalled": "2018-12-26T03:05:00.5018813Z",
-      "dateUpdated": "2018-12-26T03:07:04.8436192Z",
-      "dateLastUpdateAttempted": "2018-12-26T03:07:04.8436192Z",
+      "dateUpdated": "2018-12-31T21:28:32.3249938Z",
+      "dateLastUpdateAttempted": "2018-12-31T21:28:32.3249938Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -4360,7 +4259,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 282877,
@@ -4431,7 +4330,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 268567,
@@ -4492,7 +4391,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 251138,
@@ -4566,7 +4465,7 @@
       "dateInstalled": "2018-12-26T03:05:00.5028791Z",
       "dateUpdated": "2018-12-26T03:06:57.0713926Z",
       "dateLastUpdateAttempted": "2018-12-26T03:06:57.0713926Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4575,7 +4474,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 278155,
@@ -4641,7 +4540,7 @@
       "dateInstalled": "2018-12-26T03:05:00.5028791Z",
       "dateUpdated": "2018-12-26T03:07:59.2562198Z",
       "dateLastUpdateAttempted": "2018-12-26T03:07:59.2562198Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4650,7 +4549,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 278882,
@@ -4704,7 +4603,7 @@
       "dateInstalled": "2018-12-26T03:05:00.5028791Z",
       "dateUpdated": "2018-12-26T03:06:27.5393038Z",
       "dateLastUpdateAttempted": "2018-12-26T03:06:27.5393038Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4713,20 +4612,20 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 241665,
       "gameInstanceID": "1c856547-b829-4bfb-9b18-dab736d563ad",
       "installedFile": {
-        "id": 2643965,
-        "fileName": "Psi-r1.1-62.jar",
-        "fileNameOnDisk": "Psi-r1.1-62.jar",
-        "fileDate": "2018-12-03T22:58:16.28",
-        "fileLength": 2207322,
+        "id": 2653470,
+        "fileName": "Psi-r1.1-63.jar",
+        "fileNameOnDisk": "Psi-r1.1-63.jar",
+        "fileDate": "2018-12-29T01:54:58.597",
+        "fileLength": 2209179,
         "releaseType": 1,
         "fileStatus": 2,
-        "downloadUrl": "https://files.forgecdn.net/files/2643/965/Psi-r1.1-62.jar",
+        "downloadUrl": "https://files.forgecdn.net/files/2653/470/Psi-r1.1-63.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -4739,30 +4638,30 @@
         "modules": [
           {
             "folderName": "META-INF",
-            "fimgerprint": 2919361520
+            "fimgerprint": 3215944716
           },
           {
             "folderName": "vazkii",
-            "fimgerprint": 431315713
+            "fimgerprint": 2098599444
           },
           {
             "folderName": "mcmod.info",
-            "fimgerprint": 2475567989
+            "fimgerprint": 1035965092
           },
           {
             "folderName": "assets",
-            "fimgerprint": 4233095947
+            "fimgerprint": 3964080816
           }
         ],
-        "packageFingerprint": 1530845757,
+        "packageFingerprint": 1451912303,
         "gameVersion": [
           "1.12.2"
         ],
         "installMetadata": null
       },
       "dateInstalled": "2018-12-26T03:05:00.5028791Z",
-      "dateUpdated": "2018-12-26T03:07:32.5874827Z",
-      "dateLastUpdateAttempted": "2018-12-26T03:07:32.5874827Z",
+      "dateUpdated": "2018-12-31T21:28:47.8484496Z",
+      "dateLastUpdateAttempted": "2018-12-31T21:28:47.8484496Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -4772,7 +4671,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 236018,
@@ -4822,7 +4721,7 @@
       "dateInstalled": "2018-12-26T03:05:00.5028791Z",
       "dateUpdated": "2018-12-26T03:07:27.0821938Z",
       "dateLastUpdateAttempted": "2018-12-26T03:07:27.0821938Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4831,7 +4730,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 269680,
@@ -4884,7 +4783,7 @@
       "dateInstalled": "2018-12-26T03:05:00.5028791Z",
       "dateUpdated": "2018-12-26T03:06:05.4373636Z",
       "dateLastUpdateAttempted": "2018-12-26T03:06:05.4373636Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4893,7 +4792,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 253211,
@@ -4950,7 +4849,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 286505,
@@ -5016,7 +4915,7 @@
       "dateInstalled": "2018-12-26T03:05:00.5028791Z",
       "dateUpdated": "2018-12-26T03:06:53.7402901Z",
       "dateLastUpdateAttempted": "2018-12-26T03:06:53.7402901Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5025,7 +4924,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 257814,
@@ -5070,7 +4969,7 @@
       "dateInstalled": "2018-12-26T03:05:00.5038764Z",
       "dateUpdated": "2018-12-26T03:06:42.2170809Z",
       "dateLastUpdateAttempted": "2018-12-26T03:06:42.2170809Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5079,7 +4978,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 239286,
@@ -5141,7 +5040,7 @@
       "dateInstalled": "2018-12-26T03:05:00.5038764Z",
       "dateUpdated": "2018-12-26T03:06:44.1878155Z",
       "dateLastUpdateAttempted": "2018-12-26T03:06:44.1878155Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5150,7 +5049,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 228823,
@@ -5221,7 +5120,7 @@
       "dateInstalled": "2018-12-26T03:05:00.5038764Z",
       "dateUpdated": "2018-12-26T03:06:29.1599723Z",
       "dateLastUpdateAttempted": "2018-12-26T03:06:29.1599723Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5230,7 +5129,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 220954,
@@ -5282,7 +5181,7 @@
       "dateInstalled": "2018-12-26T03:05:00.5038764Z",
       "dateUpdated": "2018-12-26T03:07:16.0237441Z",
       "dateLastUpdateAttempted": "2018-12-26T03:07:16.0237441Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5291,20 +5190,20 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 59751,
       "gameInstanceID": "1c856547-b829-4bfb-9b18-dab736d563ad",
       "installedFile": {
-        "id": 2651621,
-        "fileName": "forestry_1.12.2-5.8.2.378.jar",
-        "fileNameOnDisk": "forestry_1.12.2-5.8.2.378.jar",
-        "fileDate": "2018-12-23T13:00:35.263",
-        "fileLength": 5231522,
+        "id": 2653258,
+        "fileName": "forestry_1.12.2-5.8.2.380.jar",
+        "fileNameOnDisk": "forestry_1.12.2-5.8.2.380.jar",
+        "fileDate": "2018-12-28T12:51:56.337",
+        "fileLength": 5231581,
         "releaseType": 2,
         "fileStatus": 2,
-        "downloadUrl": "https://files.forgecdn.net/files/2651/621/forestry_1.12.2-5.8.2.378.jar",
+        "downloadUrl": "https://files.forgecdn.net/files/2653/258/forestry_1.12.2-5.8.2.380.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -5312,11 +5211,11 @@
         "modules": [
           {
             "folderName": "META-INF",
-            "fimgerprint": 300682848
+            "fimgerprint": 1559260743
           },
           {
             "folderName": "forestry",
-            "fimgerprint": 3284607381
+            "fimgerprint": 2828465980
           },
           {
             "folderName": "assets",
@@ -5332,22 +5231,22 @@
           },
           {
             "folderName": "mcmod.info",
-            "fimgerprint": 4049976354
+            "fimgerprint": 3834684208
           },
           {
             "folderName": "pack.mcmeta",
             "fimgerprint": 3213175927
           }
         ],
-        "packageFingerprint": 369589791,
+        "packageFingerprint": 2181030424,
         "gameVersion": [
           "1.12.2"
         ],
         "installMetadata": null
       },
       "dateInstalled": "2018-12-26T03:05:00.5038764Z",
-      "dateUpdated": "2018-12-26T03:06:49.0957002Z",
-      "dateLastUpdateAttempted": "2018-12-26T03:06:49.0957002Z",
+      "dateUpdated": "2018-12-31T21:29:05.1272211Z",
+      "dateLastUpdateAttempted": "2018-12-31T21:29:05.1272211Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -5357,7 +5256,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 286567,
@@ -5415,20 +5314,20 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 306770,
       "gameInstanceID": "1c856547-b829-4bfb-9b18-dab736d563ad",
       "installedFile": {
-        "id": 2646331,
-        "fileName": "Patchouli-1.0-13.jar",
-        "fileNameOnDisk": "Patchouli-1.0-13.jar",
-        "fileDate": "2018-12-11T00:59:30.237",
-        "fileLength": 452514,
+        "id": 2652487,
+        "fileName": "Patchouli-1.0-14.jar",
+        "fileNameOnDisk": "Patchouli-1.0-14.jar",
+        "fileDate": "2018-12-26T02:57:36.443",
+        "fileLength": 458246,
         "releaseType": 1,
         "fileStatus": 2,
-        "downloadUrl": "https://files.forgecdn.net/files/2646/331/Patchouli-1.0-13.jar",
+        "downloadUrl": "https://files.forgecdn.net/files/2652/487/Patchouli-1.0-14.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -5436,30 +5335,30 @@
         "modules": [
           {
             "folderName": "META-INF",
-            "fimgerprint": 1888855899
+            "fimgerprint": 1137391270
           },
           {
             "folderName": "vazkii",
-            "fimgerprint": 427033083
+            "fimgerprint": 3263814935
           },
           {
             "folderName": "mcmod.info",
-            "fimgerprint": 1712759733
+            "fimgerprint": 2866610888
           },
           {
             "folderName": "assets",
-            "fimgerprint": 2408562747
+            "fimgerprint": 3868330018
           }
         ],
-        "packageFingerprint": 1092166681,
+        "packageFingerprint": 2959452595,
         "gameVersion": [
           "1.12.2"
         ],
         "installMetadata": null
       },
       "dateInstalled": "2018-12-26T03:07:28.492425Z",
-      "dateUpdated": "2018-12-26T03:07:28.4944195Z",
-      "dateLastUpdateAttempted": "2018-12-26T03:07:28.4944195Z",
+      "dateUpdated": "2018-12-31T21:28:40.292672Z",
+      "dateLastUpdateAttempted": "2018-12-31T21:28:40.292672Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -5469,7 +5368,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 297414,
@@ -5531,7 +5430,7 @@
       "dateInstalled": "2018-12-26T03:08:05.601264Z",
       "dateUpdated": "2018-12-26T03:08:05.6032594Z",
       "dateLastUpdateAttempted": "2018-12-26T03:08:05.6032594Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5540,70 +5439,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 242106,
-      "gameInstanceID": "1c856547-b829-4bfb-9b18-dab736d563ad",
-      "installedFile": {
-        "id": 2539562,
-        "fileName": "Better Questing - Quest Book 3.1.1-1.12",
-        "fileNameOnDisk": "questbook-3.1.1-1.12.jar",
-        "fileDate": "2018-03-10T15:02:22.587",
-        "fileLength": 20203,
-        "releaseType": 1,
-        "fileStatus": 2,
-        "downloadUrl": "https://files.forgecdn.net/files/2539/562/questbook-3.1.1-1.12.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "addonId": 238856,
-            "type": 1
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "folderName": "META-INF",
-            "fimgerprint": 3052610544
-          },
-          {
-            "folderName": "drethic",
-            "fimgerprint": 740509746
-          },
-          {
-            "folderName": "mcmod.info",
-            "fimgerprint": 2302881697
-          },
-          {
-            "folderName": "assets",
-            "fimgerprint": 93684504
-          },
-          {
-            "folderName": "pack.mcmeta",
-            "fimgerprint": 2512685754
-          }
-        ],
-        "packageFingerprint": 2656715831,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "installMetadata": null
-      },
-      "dateInstalled": "2018-12-26T03:08:18.4289858Z",
-      "dateUpdated": "2018-12-26T03:08:18.4299836Z",
-      "dateLastUpdateAttempted": "2018-12-26T03:08:18.4299836Z",
-      "status": 3,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 278494,
@@ -5656,7 +5492,7 @@
       "dateInstalled": "2018-12-26T03:10:18.1687978Z",
       "dateUpdated": "2018-12-26T03:10:18.1807664Z",
       "dateLastUpdateAttempted": "2018-12-26T03:10:18.1807664Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5665,7 +5501,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 226406,
@@ -5714,7 +5550,7 @@
       "dateInstalled": "2018-12-26T03:10:40.4642204Z",
       "dateUpdated": "2018-12-26T03:10:40.4672127Z",
       "dateLastUpdateAttempted": "2018-12-26T03:10:40.4672127Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5723,7 +5559,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 226447,
@@ -5766,7 +5602,7 @@
       "dateInstalled": "2018-12-26T03:10:41.9622184Z",
       "dateUpdated": "2018-12-26T03:10:41.9642132Z",
       "dateLastUpdateAttempted": "2018-12-26T03:10:41.9642132Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5775,7 +5611,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 250398,
@@ -5822,6 +5658,73 @@
       "dateInstalled": "2018-12-26T03:10:57.9734328Z",
       "dateUpdated": "2018-12-26T03:10:57.9754284Z",
       "dateLastUpdateAttempted": "2018-12-26T03:10:57.9754284Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 289412,
+      "gameInstanceID": "1c856547-b829-4bfb-9b18-dab736d563ad",
+      "installedFile": {
+        "id": 2653643,
+        "fileName": "FTBQuests-1.4.0.109.jar",
+        "fileNameOnDisk": "FTBQuests-1.4.0.109.jar",
+        "fileDate": "2018-12-29T15:55:19.933",
+        "fileLength": 764119,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2653/643/FTBQuests-1.4.0.109.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "addonId": 237167,
+            "type": 1
+          },
+          {
+            "addonId": 278398,
+            "type": 2
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 2360168585
+          },
+          {
+            "folderName": "com",
+            "fimgerprint": 1382474416
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 1157298528
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 2381346384
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 2432827650
+          }
+        ],
+        "packageFingerprint": 4260914936,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2018-12-31T21:29:29.6426142Z",
+      "dateUpdated": "2018-12-31T21:29:29.6475997Z",
+      "dateLastUpdateAttempted": "2018-12-31T21:29:29.6475997Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
