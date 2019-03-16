@@ -11566,6 +11566,12 @@ command.forge.track.help.te
 command.forge.track.reset
 command.forge.track.start
 command.forge.track.te
+command.ftbbackups.backup.help.size
+command.ftbbackups.backup.help.start
+command.ftbbackups.backup.help.time
+command.ftbbackups.backup.size
+command.ftbbackups.backup.start
+command.ftbbackups.backup.time
 command.ftblib.my_settings
 command.ftblib.reload
 command.ftblib.team.create
