@@ -1,51 +1,49 @@
-logs/
-psi_persistent/
-libraries/
-versions/
-resourcepacks/
-assets/
-/realms_persistence.json
-config/Mercurius.cfg
-launcher_log.txt
-launcher_profiles.json
-usernamecache.json
-usercache.json
-screenshots/
-backups/
-crafttweaker.log
-*.log
-crash-reports/
-journeymap/data
-journeymap/server
-New World/
-servers.dat
+# Add the following to your gitignore:
+
+# Instance Sync
+**/*.jar
+!InstanceSync*.jar
+**/*.jar.disabled
+**/*.jar.meta
+
+# Optional: Generic Modpack Ignores
+**/*.log
+/.mixin.out
+/saves
+/downloads
+/resourcepacks
+.curseclient
 options.txt
-*.ini
+fonts/
 
-\.ReAuth\.cfg
+logs/
 
-BotaniaVars\.dat
+valkyrielib/
 
-OpenComputersMod-1\.7\.0\.20-lua52-native\.64\.dll
-
-OpenComputersMod-1\.7\.0\.20-lua53-native\.64\.dll
-
-knownkeys\.txt
+woot/
 
 journeymap/
 
-mputils/
+crash-reports/
 
-config/InvTweaks\.cfg
+astralsorcery/
 
-config/MouseTweaks\.cfg
+assets/
 
-config/brandon3055/contributors\.json
+BotaniaVars.dat
 
-config/jei/worldSettings\.cfg
+knownkeys.txt
 
-config/AppliedEnergistics2/VersionChecker\.cfg
+usercache.json
 
-mods/
+usernamecache.json
 
-saves/
+OpenComputersMod-1.7.5.192-lua52-native.64.dll
+
+OpenComputersMod-1.7.5.192-lua53-native.64.dll
+
+config/tellme/
+
+asm/
+
+local/

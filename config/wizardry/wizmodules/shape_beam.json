@@ -1,19 +1,11 @@
 {
-  "sub_module_id": "shape_beam",
-  "reference_module_id": "shape_beam",
-  "item": "wizardry:unicorn_horn",
-  "mana": {
-    "base": 10,
-    "min": 10
-  },
-  "burnout": {
-    "base": 5,
-    "min": 5
-  },
-  "range": { "base": 10, "min": 10, "max": 30 },
-  "potency": {
-    "base": 1,
-    "min": 1,
-    "max": 10
-  }
+	"sub_module_id": "shape_beam",
+	"reference_module_id": "shape_beam",
+	"item": "wizardry:unicorn_horn",
+	"mana": { "min": 5 },
+	"burnout": { "min": 2 },
+	"range": { "min": 10, "max": 30 },
+	"potency": { "min": 1, "max": 10 },
+	"tags": [ "continuous" ],
+	"hidden_tags": [ "normal" ]
 }
