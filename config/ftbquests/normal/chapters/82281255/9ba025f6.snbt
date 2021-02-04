@@ -1,0 +1,44 @@
+{
+	title: "Tier 2 Ores",
+	icon: "minecraft:gold_ore",
+	x: 2.5d,
+	y: -2.0d,
+	dependencies: [
+		"bf0b0ceb"
+	],
+	tasks: [{
+		uid: "3a2da640",
+		type: "item",
+		items: [{
+			item: "minecraft:gold_ore"
+		}]
+	},
+	{
+		uid: "33f7696c",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:ore"
+		}]
+	},
+	{
+		uid: "c379b743",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:ore 1 1"
+		}]
+	},
+	{
+		uid: "5a4d6e21",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:ore 1 2"
+		}]
+	},
+	{
+		uid: "a3ea1fae",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:ore 1 3"
+		}]
+	}]
+}

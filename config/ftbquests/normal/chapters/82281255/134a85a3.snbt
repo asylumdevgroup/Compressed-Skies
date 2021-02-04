@@ -1,0 +1,16 @@
+{
+	title: "Ka-Boom!",
+	icon: "prodigytech:explosion_furnace",
+	x: 4.5d,
+	y: -1.0d,
+	dependencies: [
+		"9b571566"
+	],
+	tasks: [{
+		uid: "6d712274",
+		type: "item",
+		items: [{
+			item: "prodigytech:explosion_furnace"
+		}]
+	}]
+}

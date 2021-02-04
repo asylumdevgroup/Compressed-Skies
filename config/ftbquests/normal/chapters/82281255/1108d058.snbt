@@ -1,0 +1,56 @@
+{
+	title: "Tree Farming",
+	icon: "minecraft:sapling",
+	x: -3.0d,
+	y: -2.0d,
+	dependencies: [
+		"d17a7dbb"
+	],
+	tasks: [{
+		uid: "e3a6c071",
+		type: "item",
+		items: [{
+			item: "minecraft:log"
+		}],
+		count: 16L
+	},
+	{
+		uid: "6fe4b85d",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling"
+		}],
+		count: 8L
+	},
+	{
+		uid: "9ee3b829",
+		type: "item",
+		items: [{
+			item: "parachronology:basicmoment"
+		}],
+		count: 2L
+	},
+	{
+		uid: "0e5c397b",
+		type: "item",
+		items: [{
+			item: "minecraft:crafting_table"
+		}]
+	}],
+	rewards: [{
+		uid: "137c025c",
+		type: "item",
+		item: "minecraft:torch",
+		count: 16
+	},
+	{
+		uid: "e29d5d96",
+		type: "item",
+		item: "minecraft:stone_pickaxe"
+	},
+	{
+		uid: "59373fc5",
+		type: "item",
+		item: "minecraft:stone_axe"
+	}]
+}

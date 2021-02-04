@@ -1,0 +1,17 @@
+{
+	title: "Upgrading Your Displacer",
+	icon: "parachronology:upgrade",
+	x: 1.5d,
+	y: -2.0d,
+	dependencies: [
+		"79f32264"
+	],
+	tasks: [{
+		uid: "20493485",
+		type: "item",
+		items: [{
+			item: "parachronology:upgrade"
+		}],
+		ignore_nbt: 1b
+	}]
+}

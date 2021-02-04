@@ -1,0 +1,25 @@
+{
+	title: "Nether Materials",
+	icon: "minecraft:netherrack",
+	x: 5.5d,
+	y: -2.0d,
+	dependencies: [
+		"2f05dd01"
+	],
+	tasks: [{
+		uid: "7998f7b4",
+		type: "item",
+		items: [{
+			item: "minecraft:netherrack"
+		}],
+		count: 32L
+	},
+	{
+		uid: "15670834",
+		type: "item",
+		items: [{
+			item: "minecraft:soul_sand"
+		}],
+		count: 16L
+	}]
+}

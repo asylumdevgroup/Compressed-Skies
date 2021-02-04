@@ -1,0 +1,34 @@
+{
+	title: "Cobblegen",
+	icon: "minecraft:cobblestone",
+	x: -0.5d,
+	y: -4.0d,
+	shape: "diamond",
+	dependencies: [
+		"ee07b54b"
+	],
+	tasks: [{
+		uid: "420de472",
+		type: "item",
+		items: [{
+			item: "parachronology:petrifiedwooditem"
+		}],
+		count: 32L
+	},
+	{
+		uid: "ac8f9c48",
+		type: "kill",
+		entity: "minecraft:zombie",
+		value: 10L
+	}],
+	rewards: [{
+		uid: "5294e7d0",
+		type: "item",
+		item: "minecraft:water_bucket"
+	},
+	{
+		uid: "9af5e8bc",
+		type: "item",
+		item: "minecraft:lava_bucket"
+	}]
+}

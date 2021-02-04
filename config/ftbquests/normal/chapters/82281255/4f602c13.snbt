@@ -1,0 +1,16 @@
+{
+	title: "First Custom Tools",
+	icon: "toolbox:pickaxe_head 1 16",
+	x: 2.5d,
+	y: -1.0d,
+	dependencies: [
+		"b7a3caef"
+	],
+	tasks: [{
+		uid: "9db7c0bd",
+		type: "item",
+		items: [{
+			item: "toolbox:pickaxe_head 1 16"
+		}]
+	}]
+}

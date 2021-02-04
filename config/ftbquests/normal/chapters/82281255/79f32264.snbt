@@ -1,0 +1,28 @@
+{
+	title: "Tier 2 Moment Farming",
+	icon: "parachronology:moment 1 1",
+	x: 0.5d,
+	y: -2.0d,
+	dependencies: [
+		"ee07b54b"
+	],
+	tasks: [{
+		uid: "555b3878",
+		type: "kill",
+		entity: "minecraft:enderman",
+		value: 1L
+	},
+	{
+		uid: "6abcbd01",
+		type: "item",
+		items: [{
+			item: "parachronology:moment 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "e2569f46",
+		type: "item",
+		item: "parachronology:moment 1 1",
+		count: 2
+	}]
+}

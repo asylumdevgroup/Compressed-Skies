@@ -1,0 +1,34 @@
+{
+	title: "Into the Depths",
+	icon: "minecraft:obsidian",
+	x: 4.5d,
+	y: -2.0d,
+	dependencies: [
+		"9821845c"
+	],
+	tasks: [{
+		uid: "b983a882",
+		type: "item",
+		items: [{
+			item: "parachronology:enricheddirt"
+		}],
+		count: 10L
+	},
+	{
+		uid: "e111c827",
+		type: "item",
+		items: [{
+			item: "minecraft:obsidian"
+		}],
+		count: 10L
+	},
+	{
+		uid: "5095561a",
+		type: "item",
+		items: [{
+			item: "minecraft:flint_and_steel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

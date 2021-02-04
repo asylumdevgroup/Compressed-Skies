@@ -1,0 +1,16 @@
+{
+	title: "First Casing",
+	icon: "contenttweaker:ferramic_casing",
+	x: 3.5d,
+	y: 0.0d,
+	dependencies: [
+		"5079655e"
+	],
+	tasks: [{
+		uid: "65d5118f",
+		type: "item",
+		items: [{
+			item: "contenttweaker:ferramic_casing"
+		}]
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	title: "Tier 1 Ores",
+	icon: "minecraft:iron_ore",
+	x: 0.5d,
+	y: -1.0d,
+	dependencies: [
+		"ee07b54b"
+	],
+	tasks: [{
+		uid: "eca2f2b9",
+		type: "item",
+		items: [{
+			item: "minecraft:coal"
+		}],
+		count: 8L
+	},
+	{
+		uid: "cdeac168",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ore"
+		}],
+		count: 8L
+	}]
+}

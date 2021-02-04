@@ -1,0 +1,29 @@
+{
+	title: "Displacing Through Time",
+	icon: "parachronology:displacer",
+	x: -1.5d,
+	y: -2.0d,
+	dependencies: [
+		"1108d058"
+	],
+	tasks: [{
+		uid: "b6513400",
+		type: "item",
+		items: [{
+			item: "parachronology:petrifiedwooditem"
+		}],
+		count: 8L
+	},
+	{
+		uid: "d3764632",
+		type: "item",
+		items: [{
+			item: "parachronology:displacer"
+		}]
+	}],
+	rewards: [{
+		uid: "8cd629fd",
+		type: "item",
+		item: "minecraft:stone_sword"
+	}]
+}

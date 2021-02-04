@@ -1,0 +1,16 @@
+{
+	title: "Heating up Air",
+	icon: "prodigytech:solid_fuel_aeroheater",
+	x: 3.5d,
+	y: 1.0d,
+	dependencies: [
+		"63af9768"
+	],
+	tasks: [{
+		uid: "0b2dd5b7",
+		type: "item",
+		items: [{
+			item: "prodigytech:solid_fuel_aeroheater"
+		}]
+	}]
+}

@@ -1,0 +1,35 @@
+{
+	title: "Sugarcane",
+	icon: "minecraft:reeds",
+	x: 1.5d,
+	y: -1.0d,
+	dependencies: [
+		"ee07b54b"
+	],
+	tasks: [{
+		uid: "0a6e481f",
+		type: "item",
+		items: [{
+			item: "minecraft:reeds"
+		}],
+		count: 3L
+	},
+	{
+		uid: "fb8ebf2e",
+		type: "item",
+		items: [{
+			item: "minecraft:paper"
+		}],
+		count: 3L
+	}],
+	rewards: [{
+		uid: "12bc7e85",
+		type: "item",
+		item: {
+			id: "toolbox:schematic",
+			tag: {
+				Type: "pickaxe_head"
+			}
+		}
+	}]
+}

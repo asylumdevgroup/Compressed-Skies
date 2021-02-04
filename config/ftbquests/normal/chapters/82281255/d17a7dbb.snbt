@@ -1,0 +1,24 @@
+{
+	x: -4.5d,
+	y: -2.0d,
+	shape: "gear",
+	size: 2.0d,
+	tasks: [{
+		uid: "8b07985b",
+		type: "checkmark",
+		title: "Welcome to Compressed Skies!",
+		icon: "parachronology:basicmoment"
+	}],
+	rewards: [{
+		uid: "8fa6e92e",
+		type: "item",
+		item: "minecraft:sapling",
+		count: 4
+	},
+	{
+		uid: "99ac2d6d",
+		type: "item",
+		item: "minecraft:apple",
+		count: 8
+	}]
+}

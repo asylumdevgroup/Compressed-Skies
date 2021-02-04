@@ -1,0 +1,33 @@
+{
+	title: "Mob Farm",
+	icon: "minecraft:skull 1 2",
+	x: -0.5d,
+	y: -2.0d,
+	dependencies: [
+		"4448cb42"
+	],
+	tasks: [{
+		uid: "25da6689",
+		type: "kill",
+		entity: "minecraft:zombie",
+		value: 1L
+	},
+	{
+		uid: "8f6a1b91",
+		type: "kill",
+		entity: "minecraft:skeleton",
+		value: 1L
+	},
+	{
+		uid: "de24b680",
+		type: "kill",
+		entity: "minecraft:creeper",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "d9625e57",
+		type: "item",
+		item: "parachronology:moment",
+		count: 2
+	}]
+}

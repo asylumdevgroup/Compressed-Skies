@@ -1,0 +1,23 @@
+{
+	title: "Advanced Soils",
+	icon: "minecraft:clay",
+	x: 5.5d,
+	y: -1.0d,
+	dependencies: [
+		"e7b8618d"
+	],
+	tasks: [{
+		uid: "a0d4b4c8",
+		type: "item",
+		items: [{
+			item: "minecraft:sand"
+		}]
+	},
+	{
+		uid: "2cbaa10e",
+		type: "item",
+		items: [{
+			item: "minecraft:clay"
+		}]
+	}]
+}
