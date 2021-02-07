@@ -1,0 +1,30 @@
+{
+	title: "Hotter Air",
+	icon: "prodigytech:energion_crystal_seed",
+	x: 0.5d,
+	y: 2.0d,
+	dependencies: [
+		"a7ddbccb"
+	],
+	tasks: [{
+		uid: "865dd1f2",
+		type: "item",
+		items: [{
+			item: "prodigytech:energion_dust"
+		}]
+	},
+	{
+		uid: "8abc9ec6",
+		type: "item",
+		items: [{
+			item: "prodigytech:energion_crystal_seed"
+		}]
+	},
+	{
+		uid: "29542bfc",
+		type: "item",
+		items: [{
+			item: "prodigytech:energion_aeroheater"
+		}]
+	}]
+}

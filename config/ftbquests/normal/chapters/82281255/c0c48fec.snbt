@@ -1,0 +1,23 @@
+{
+	title: "Circuit Maker",
+	icon: "prodigytech:solderer",
+	x: 2.5d,
+	y: 2.0d,
+	dependencies: [
+		"cf731a7a"
+	],
+	tasks: [{
+		uid: "a87fbc08",
+		type: "item",
+		items: [{
+			item: "prodigytech:carbon_plate"
+		}]
+	},
+	{
+		uid: "50b54651",
+		type: "item",
+		items: [{
+			item: "prodigytech:solderer"
+		}]
+	}]
+}

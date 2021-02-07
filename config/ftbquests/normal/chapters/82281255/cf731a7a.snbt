@@ -1,0 +1,16 @@
+{
+	title: "Grinding Stuff Down",
+	icon: "prodigytech:rotary_grinder",
+	x: 3.5d,
+	y: 2.0d,
+	dependencies: [
+		"2f674f96"
+	],
+	tasks: [{
+		uid: "7ba1c12d",
+		type: "item",
+		items: [{
+			item: "prodigytech:rotary_grinder"
+		}]
+	}]
+}

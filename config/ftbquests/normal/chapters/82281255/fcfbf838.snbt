@@ -1,0 +1,17 @@
+{
+	title: "Better Plank Creation",
+	icon: "prodigytech:heat_sawmill",
+	x: 4.5d,
+	y: 2.0d,
+	shape: "diamond",
+	dependencies: [
+		"2f674f96"
+	],
+	tasks: [{
+		uid: "c893ec20",
+		type: "item",
+		items: [{
+			item: "prodigytech:heat_sawmill"
+		}]
+	}]
+}

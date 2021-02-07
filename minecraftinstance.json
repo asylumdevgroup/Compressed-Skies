@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-02-04T20:39:38.9360467Z",
+  "lastPlayed": "2021-02-07T02:12:48.9727391Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -1286,7 +1286,7 @@
       "dateInstalled": "2021-02-04T01:09:53.8318212Z",
       "dateUpdated": "2021-02-04T01:09:53.8328217Z",
       "dateLastUpdateAttempted": "2021-02-04T01:09:53.8328217Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4577,7 +4577,7 @@
       "dateInstalled": "2021-02-04T20:39:16.433994Z",
       "dateUpdated": "2021-02-04T20:39:16.4409962Z",
       "dateLastUpdateAttempted": "2021-02-04T20:39:16.4409962Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4586,7 +4586,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 247111,

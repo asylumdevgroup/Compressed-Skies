@@ -1,0 +1,26 @@
+{
+	title: "Safely Harvesting Energion",
+	icon: "prodigytech:crystal_cutter",
+	x: 0.5d,
+	y: 1.0d,
+	shape: "diamond",
+	dependencies: [
+		"0575ff15"
+	],
+	tasks: [{
+		uid: "abbabc06",
+		type: "item",
+		items: [{
+			item: "prodigytech:crystal_cutter"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "532a53c5",
+		type: "item",
+		items: [{
+			item: "prodigytech:automatic_crystal_cutter"
+		}]
+	}]
+}

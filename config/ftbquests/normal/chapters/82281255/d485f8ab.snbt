@@ -1,0 +1,23 @@
+{
+	title: "The Other \"Z\" Metal",
+	icon: "steamagerevolution:material_part 1 40",
+	x: -2.5d,
+	y: 1.0d,
+	dependencies: [
+		"d02e801a"
+	],
+	tasks: [{
+		uid: "784a4749",
+		type: "item",
+		items: [{
+			item: "steamagerevolution:sub_block_holder_0 1 6"
+		}]
+	},
+	{
+		uid: "ae101712",
+		type: "item",
+		items: [{
+			item: "steamagerevolution:material_part 1 40"
+		}]
+	}]
+}

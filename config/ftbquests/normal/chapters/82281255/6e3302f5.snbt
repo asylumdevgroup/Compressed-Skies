@@ -1,0 +1,19 @@
+{
+	title: "More Efficient Fuel",
+	icon: "immersiveengineering:stone_decoration",
+	x: -4.0d,
+	y: 1.0d,
+	shape: "octagon",
+	dependencies: [
+		"d485f8ab"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "982538ba",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration"
+		}],
+		count: 27L
+	}]
+}

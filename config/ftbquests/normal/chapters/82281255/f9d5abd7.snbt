@@ -1,0 +1,32 @@
+{
+	title: "Primordium Processing",
+	icon: "prodigytech:primordium",
+	x: -0.5d,
+	y: 2.0d,
+	dependencies: [
+		"0575ff15"
+	],
+	tasks: [{
+		uid: "3f866794",
+		type: "item",
+		items: [{
+			item: "prodigytech:primordialis_reactor"
+		}]
+	},
+	{
+		uid: "ccc9f82e",
+		type: "item",
+		items: [{
+			item: "prodigytech:atomic_reshaper"
+		}]
+	},
+	{
+		uid: "8e0ac03a",
+		type: "item",
+		items: [{
+			item: "prodigytech:primordium"
+		}],
+		count: 8L,
+		consume_items: false
+	}]
+}

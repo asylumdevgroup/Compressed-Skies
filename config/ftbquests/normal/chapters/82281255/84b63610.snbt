@@ -1,0 +1,30 @@
+{
+	title: "Zorra",
+	icon: "prodigytech:zorra_leaf",
+	x: -1.5d,
+	y: 2.0d,
+	dependencies: [
+		"f9d5abd7"
+	],
+	tasks: [{
+		uid: "2d8cb7c5",
+		type: "item",
+		items: [{
+			item: "prodigytech:zorra_sapling"
+		}]
+	},
+	{
+		uid: "426e4e1c",
+		type: "item",
+		items: [{
+			item: "prodigytech:zorra_leaf"
+		}]
+	},
+	{
+		uid: "1be10451",
+		type: "item",
+		items: [{
+			item: "prodigytech:zorrasteel_raw"
+		}]
+	}]
+}
