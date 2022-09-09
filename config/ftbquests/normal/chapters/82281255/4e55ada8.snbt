@@ -21,5 +21,11 @@
 			item: "minecraft:iron_ore"
 		}],
 		count: 8L
+	}],
+	rewards: [{
+		uid: "741fdedc",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 8
 	}]
 }

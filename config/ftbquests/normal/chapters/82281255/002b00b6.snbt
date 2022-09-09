@@ -1,0 +1,15 @@
+{
+	title: "Z-Stone",
+	x: -2.5d,
+	y: 1.0d,
+	dependencies: [
+		"d02e801a"
+	],
+	tasks: [{
+		uid: "6f5bfabc",
+		type: "item",
+		items: [{
+			item: "contenttweaker:zorra_infused_stone"
+		}]
+	}]
+}

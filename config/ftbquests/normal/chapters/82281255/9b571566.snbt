@@ -19,5 +19,11 @@
 		items: [{
 			item: "minecraft:clay"
 		}]
+	}],
+	rewards: [{
+		uid: "54ae583a",
+		type: "item",
+		item: "minecraft:glass",
+		count: 16
 	}]
 }

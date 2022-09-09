@@ -40,5 +40,17 @@
 		items: [{
 			item: "immersiveengineering:ore 1 3"
 		}]
+	}],
+	rewards: [{
+		uid: "148f6034",
+		type: "item",
+		item: "immersiveengineering:metal",
+		count: 8
+	},
+	{
+		uid: "05aefa60",
+		type: "item",
+		item: "immersiveengineering:metal 1 1",
+		count: 8
 	}]
 }

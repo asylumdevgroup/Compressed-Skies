@@ -30,5 +30,11 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "420f3762",
+		type: "item",
+		item: "minecraft:gold_ore",
+		count: 8
 	}]
 }

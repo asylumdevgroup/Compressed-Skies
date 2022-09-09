@@ -21,5 +21,11 @@
 			item: "minecraft:soul_sand"
 		}],
 		count: 16L
+	}],
+	rewards: [{
+		uid: "ab7cab31",
+		type: "item",
+		item: "minecraft:netherbrick",
+		count: 16
 	}]
 }

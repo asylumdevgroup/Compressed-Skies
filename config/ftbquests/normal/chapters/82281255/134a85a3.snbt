@@ -12,5 +12,11 @@
 		items: [{
 			item: "prodigytech:explosion_furnace"
 		}]
+	}],
+	rewards: [{
+		uid: "c2cab3db",
+		type: "item",
+		item: "minecraft:gunpowder",
+		count: 16
 	}]
 }
