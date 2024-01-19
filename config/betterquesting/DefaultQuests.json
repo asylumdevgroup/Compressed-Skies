@@ -2575,9 +2575,9 @@
           "globalshare:1": 0,
           "icon:10": {
             "Count:3": 1,
-            "Damage:2": 40,
+            "Damage:2": 8,
             "OreDict:8": "",
-            "id:8": "steamagerevolution:material_part"
+            "id:8": "railcraft:ingot"
           },
           "ignoresview:1": 0,
           "ismain:1": 1,
@@ -2607,9 +2607,9 @@
           "requiredItems:9": {
             "0:10": {
               "Count:3": 1,
-              "Damage:2": 6,
-              "OreDict:8": "",
-              "id:8": "steamagerevolution:sub_block_holder_0"
+              "Damage:2": 5,
+              "OreDict:8": "oreZinc",
+              "id:8": "railcraft:ore_metal"
             }
           },
           "taskID:8": "bq_standard:retrieval"
@@ -2625,7 +2625,7 @@
             "0:10": {
               "Count:3": 1,
               "Damage:2": 40,
-              "OreDict:8": "",
+              "OreDict:8": "ingotZinc",
               "id:8": "steamagerevolution:material_part"
             }
           },
@@ -2949,11 +2949,11 @@
           "desc:8": "No Description",
           "icon:10": {
             "Count:3": 1,
-            "Damage:2": 54,
+            "Damage:2": 9,
             "OreDict:8": "",
-            "id:8": "steamagerevolution:material_part"
+            "id:8": "railcraft:ingot"
           },
-          "name:8": "Chapter 2: The Steam Revolution",
+          "name:8": "Chapter 2: Steam and Rails",
           "visibility:8": "NORMAL"
         }
       },

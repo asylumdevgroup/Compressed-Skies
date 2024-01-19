@@ -39,14 +39,14 @@ recipes.addShaped("solid_fuel_aeroheater", <prodigytech:solid_fuel_aeroheater>, 
 ]);
 
 // Zorra Infused Stone
-recipes.addShaped("zorra_infused_stone", <contenttweaker:zorra_infused_stone>, [
+recipes.addShaped("zorra_infused_stone", <contenttweaker:zorra_infused_stone> * 2, [
     [<minecraft:stone>, <parachronology:moment>, <minecraft:stone>],
     [<prodigytech:zorra_leaf>, <ore:ingotZorrasteel>, <prodigytech:zorra_leaf>],
     [<minecraft:stone>, <parachronology:moment>, <minecraft:stone>]
 ]);
 
 // Zinc Ore
-mods.prodigytech.atomicreshaper.addRecipe(<contenttweaker:zorra_infused_stone>, <steamagerevolution:sub_block_holder_0:6>, 50);
+mods.prodigytech.atomicreshaper.addRecipe(<contenttweaker:zorra_infused_stone>, <railcraft:ore_metal:5>, 50);
 
 // Coke Oven Brick
 recipes.remove(<immersiveengineering:stone_decoration>);
